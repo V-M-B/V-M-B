@@ -36,7 +36,7 @@
 <img width="12" />
 
 <!-- Express Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" style="filter: invert(17%) sepia(100%) saturate(7420%) hue-rotate(0deg) brightness(94%) contrast(101%);" />
 
 <!-- Spacer -->
 <img width="12" />
