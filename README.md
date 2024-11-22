@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a Software Enginner from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>📚 I'm currently learning JavaScript .<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
+<p align="left">👨‍💻 I'm a Software Enginner from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>📚 I'm currently learning React & TypeScript .<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
 
 ###
 
@@ -25,6 +25,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+
+  <!-- Spacer -->
+<img width="12" />
+
+<!-- Node.js Logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+
+<!-- Spacer -->
+<img width="12" />
+
+<!-- Express Logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" />
+
+<!-- Spacer -->
+<img width="12" />
+
+<!-- React Logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+
+<!-- Spacer -->
+<img width="12" />
+
+<!-- TypeScript Logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+
 </div>
 
 ###
