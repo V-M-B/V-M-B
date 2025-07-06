@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ```javascript
 const varunMBhardwaj = {
@@ -32,7 +32,7 @@ const varunMBhardwaj = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 💻 Programming Languages
 <p align="center">
@@ -67,7 +67,7 @@ const varunMBhardwaj = {
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🗄️ Databases
 <p align="center">
