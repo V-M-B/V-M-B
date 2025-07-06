@@ -32,7 +32,7 @@ const varunMBhardwaj = {
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Programming Languages
 <p align="center">
@@ -67,7 +67,7 @@ const varunMBhardwaj = {
 </p>
 
 </td>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🗄️ Databases
 <p align="center">
