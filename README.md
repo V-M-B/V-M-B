@@ -1,78 +1,107 @@
 ![Banner](https://github.com/V-M-B/Custom-URL-Shortener/blob/main/banner.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi++%F0%9F%91%8B%F0%9F%8F%BC++I'm++Varun+M+Bharadwaj;I'm+aspiring+Software+Engineer+!!)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Animated hero GIF -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Welcome" width="200"/>
+</p>
 
-###
+<h1 align="center">Hi 👋, I’m Varun M Bharadwaj</h1>
+<p align="center">  
+  <em>Passionate Full-Stack Web Developer from India</em>  
+</p>
 
-<p align="left">👨‍💻 I'm a Software Enginner from Bangalore, India.<br /> ✨ Creating bugs since 2001.<br>📚 I'm currently learning React & TypeScript .<br>🎯 Goals : To become a good Software Engineer.<br>💪 Strength : Quick Learner, Tech Enthusiast</p>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h3 align="left">📄Languages :</h3>
+<p align="center">
+  <!-- Frontend -->
+  <strong>Frontend</strong><br/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <br/><br/>
+  <!-- Backend -->
+  <strong>Backend</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
+  <br/><br/>
+  <!-- Databases -->
+  <strong>Databases</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  <br/><br/>
+  <!-- DevOps & Tools -->
+  <strong>DevOps & Tools</strong><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+## 🎓 Education
 
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
+| Degree                                | Institution                                   | Year            |
+|---------------------------------------|-----------------------------------------------|-----------------|
+| Master of Computer Application (MCA)  | JSS Academy of Technical Education, Bengaluru | 2023 – 2024     |
+| Bachelor of Computer Application (BCA)| KLE Society’s Degree College                  | 2019 – 2022     |
 
-  <img width="12" />
+---
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+## 💼 Experience
 
-  <!-- Spacer -->
-<img width="12" />
+<details>
+  <summary><strong>Danush Systems & Solutions</strong> – Trainee Intern (Dec 2024 – Feb 2025)</summary>
+  - Built high-converting landing pages using Zoho Sites  
+  - Ran targeted Google Ads campaigns & optimized via Zoho Analytics
+</details>
 
-<!-- Node.js Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+<details>
+  <summary><strong>Dynamatic Technologies Ltd.</strong> – Technical Support Intern (Nov 2023 – Dec 2023)</summary>
+  - Performed L1 hardware, software & network troubleshooting  
+  - Assisted with LAN/WAN setup, boosting uptime by 15%
+</details>
 
-<!-- Spacer -->
-<img width="12" />
+---
 
-<!-- Express Logo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" style="filter: invert(17%) sepia(100%) saturate(7420%) hue-rotate(0deg) brightness(94%) contrast(101%);" /> -->
+## 🚀 Selected Projects
 
-<!-- Spacer -->
-<img width="12" />
+<div align="center">
 
-<!-- React Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+[![Mental Health Chat Bot](https://img.shields.io/badge/Python-Streamlit-blue)](https://github.com/V-M-B/mental-health-chat-bot)  
+**Mental Health Chat Bot**  
+24/7 AI-powered emotional support—built with Streamlit and OpenRouter API.
 
-<!-- Spacer -->
-<img width="12" />
+<br/>
 
-<!-- TypeScript Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+[![LMS SaaS](https://img.shields.io/badge/React-Tailwind-purple)](https://github.com/V-M-B/lms-saas)  
+**LMS SaaS Platform**  
+Scalable e-learning with voice-assisted sessions, Supabase backend & Clerk auth.
+
+<br/>
+
+[![Habit Tracker App](https://img.shields.io/badge/ReactNative-Expo-green)](https://github.com/V-M-B/habit-tracker-app)  
+**Habit Tracker App**  
+Cross-platform tracker with offline sync, custom streak visualization & push reminders.
 
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=v-m-b&color=brightgreen" alt="Profile views"/>
+</p>
+```
