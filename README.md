@@ -1,6 +1,3 @@
-Here is the exact code. Just click the **"Copy code"** button in the top right corner of the box below and paste it directly into your GitHub Profile `README.md` file!
-
-```markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/V-M-B/Custom-URL-Shortener/main/banner.png" alt="Banner" width="100%" />
 
@@ -16,7 +13,7 @@ Here is the exact code. Just click the **"Copy code"** button in the top right c
   </p>
 </div>
 
-<br />
+---
 
 ## 👨‍💻 About Me
 
@@ -24,17 +21,15 @@ Here is the exact code. Just click the **"Copy code"** button in the top right c
 
 I am a passionate **Full-Stack Engineer** specializing in the **MERN stack**, Next.js, and modern cloud architectures. I thrive on solving complex system design challenges, writing clean and maintainable code, and turning innovative ideas into robust, user-centric web applications.
 
-```javascript
-const varun = {
-    location: "Bangalore, India 🇮🇳",
-    role: "Full-Stack Engineer",
-    expertise: ["React/Next.js", "Node.js", "TypeScript", "System Architecture"],
-    philosophy: "Write code that tells a story.",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
-};
-```
+- 🔭 Currently working on **Next.js & React projects**
+- 🌱 Learning **Advanced System Design & Cloud Architecture**
+- 💡 Love to explore **new technologies** and **solve complex problems**
+- 🎯 Goal: **Contributing to open source**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 😄
 
-<br />
+<br clear="both" />
+
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -58,7 +53,8 @@ const varun = {
 
 <br />
 
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
-```
