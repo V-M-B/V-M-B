@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/V-M-B/Custom-URL-Shortener/main/banner.png" alt="Banner" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Varun+M+Bhardwaj+%F0%9F%91%8B;Full-Stack+Software+Engineer" alt="Typing SVG" />
   
   <p><b>Building scalable web applications & elegant user experiences</b></p>
   
